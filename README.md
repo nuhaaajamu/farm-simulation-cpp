@@ -25,7 +25,12 @@ Object-oriented farm simulation that models animals, vegetables, and trees using
 - Display detailed farm state per season
 
 ## How to Compile
-Compile all source files: g++ *.cpp -o farm_sim
+Compile all source files in the project directory:
+
+g++ *.cpp -o farm_sim
+
+Run:
+
 ./farm_sim
 
 *(Compilation command may vary depending on system configuration.)*
